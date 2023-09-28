@@ -1,0 +1,30 @@
+body{
+    font-family: 'Rubik 80s Fade', cursive;}
+
+nav{
+    font-family: 'Courier New', Courier, monospace;
+}
+.icon ,.demo{
+    background-color: rebeccapurple;
+    color: white;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+}
+.demo{
+    background-color: red;
+}
+.fa-facebook{
+    margin-right: 10px;
+    background-color: #00F;
+    padding: 10px;
+    border-radius: 5px ;
+    font-size: 40px;
+}
+.content{
+    margin: auto;
+    width: 50%;
+    background-color: #00F;
+    color: #fff ;
+    padding: 20px;
+}
